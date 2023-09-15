@@ -1,0 +1,17 @@
+streamlit run "C:\Users\rohan\Desktop\multiple_disease_prediction_system\multi_disease_main_file.py"
+
+GOOGLE COLLAB LINK:
+
+DIABETES MODEL:
+https://colab.research.google.com/drive/13IT5ypUMuwaxWXXUMIFiATihtmOcU7Iy?usp=sharing
+
+HEART DISEASE MODEL:
+https://colab.research.google.com/drive/1teEEtnplL-ib1zIClEe3loTpYqcLZw0q?usp=sharing
+
+PARKINSON MODEL:
+https://colab.research.google.com/drive/19jyvw5GPQ19tn_XQELHRX8WenlwTUw0t?usp=sharing
+
+
+DFD 
+SCREENSHOT
+DATA FLOW DIAGRAM
